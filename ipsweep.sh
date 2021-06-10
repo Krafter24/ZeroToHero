@@ -1,3 +1,6 @@
+//The Cyber Mentor - Zero to Hero Pentesting
+//Episode 1 - Course Intro, Notekeeping, Linux, and AMA
+//Pings IP range and returns successful pings. 
 
 #!/bin/bash
 
